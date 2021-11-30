@@ -1,0 +1,7 @@
+■配列数式
+配列数式にしたい場合は、
+数式入力後、「Ctrl」＋「Shift」＋「Enter」を押下
+
+
+■シート名取得
+=RIGHT(CELL("filename",A1),LEN(CELL("filename",A1))-FIND("]",CELL("filename",A1)))

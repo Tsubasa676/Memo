@@ -1,0 +1,17 @@
+■秀丸マクロの保存先
+C:\Users\★自分のユーザー名★\AppData\Roaming\Hidemaruo\Hidemaru\Macro
+
+■マクロ言語の仕様
+　秀丸エディタ マクロ言語
+https://help.maruo.co.jp/hidemac/html/010_Intro.html
+
+■マクロのサンプル
+　秀丸エディタのマクロライブラリ
+https://hide.maruo.co.jp/lib/macro/index.html
+
+
+
+
+
+
+
